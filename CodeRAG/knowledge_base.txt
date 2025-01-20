@@ -1,0 +1,3 @@
+This is your knowledge base file. Add any information you want the chatbot to know about.
+You can include multiple paragraphs of text, facts, or any other information.
+The chatbot will use this information to provide context-aware responses. 

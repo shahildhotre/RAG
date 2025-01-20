@@ -1,0 +1,15 @@
+langchain
+chromadb
+openai
+tiktoken
+python-dotenv 
+neo4j
+flask
+flask-cors
+gunicorn 
+langchain-openai
+langchain-community 
+langchain-core
+langchain   
+langchain-anthropic
+sentence-transformers
